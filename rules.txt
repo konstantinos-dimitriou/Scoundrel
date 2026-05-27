@@ -1,0 +1,14 @@
+Rules:
+-Monster: ♣, ♠, Potion: ♥, Weapon: ♦.
+-Resolve room by clicking 3 cards.
+-You may redraw the room by right
+clicking the pile, two redraws in
+a row are not allowed.
+-Weapons can kill only monsters of
+equal or lower strength to the last
+killed monster by the weapon.
+-Right click a monster with a weapon
+equiped to use hands instead.
+-Resolve all cards in the deck to win.
+If less than 3 cards remain in the deck
+after clearing the room you win on the spot.
